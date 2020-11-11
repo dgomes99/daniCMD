@@ -71,14 +71,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Blauw:** -kies uit zwart, rood óf blauw-
 
-**Responsive:** -kies uit responsive óf surface plane-
+**Surface:** -kies uit responsive óf surface plane-
 
-**https://www.youtube.com:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
+**https://https://www.solebox.com/en_NL:** -link naar de website die je gaat namaken óf de naam van je eigen ontwerp-
 
 **Screenshot(s) van de eerste pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/solebox-home.svg" width="375px" alt="homepagina">
 
 **Screenshot(s) van de tweede pagina (small screen):**
 
-<img src="images/dummy-plaatje.svg" width="375px" alt="omschrijving van de pagina">
+<img src="images/solebox-2.svg" width="375px" alt="productpagina">
